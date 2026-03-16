@@ -1,4 +1,6 @@
 ### Repo to share  ad-hoc scripts with external users
+Requirement
+https://github.com/deeptools/pyBigWig
 
 # run bigwig script 
 ``` 
